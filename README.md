@@ -37,3 +37,30 @@ https://www.kaggle.com/datasets/neuromusic/avocado-prices/data
 ## 짤
 
 <img width="480" height="699" alt="Image" src="https://github.com/user-attachments/assets/313a515b-b73c-4d7f-bcff-3227a096bfd2" />
+
+---
+
+## 📊 대시보드 미리보기
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/62e612f4-cdeb-4246-bafb-bebcfe648dd9" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9203a7c2-74b6-4df2-87e8-8cbd2ef7dc18" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/42a47c65-3811-4fe5-8b99-5e5ce0fa4591" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/896b38ca-a7d9-450e-8626-076eed8b57a0" width="100%"/></td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ 사용 기술 스택
+
+| 구분 | 내용 |
+|------|------|
+| 🐍 Python | 데이터 처리 및 로직 구현 |
+| 📊 Pandas | 데이터프레임 처리, 그룹화, 전처리 등 |
+| 📈 Plotly Express | 인터랙티브 시각화 (bar, line, heatmap 등) |
+| 🌐 Streamlit | 웹 대시보드 UI 구성 |
+| 📒 Jupyter Notebook | 분석 코드 작성 및 테스트 환경 |
