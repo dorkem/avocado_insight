@@ -48,8 +48,8 @@ https://www.kaggle.com/datasets/neuromusic/avocado-prices/data
     <td><img src="https://github.com/user-attachments/assets/9203a7c2-74b6-4df2-87e8-8cbd2ef7dc18" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/42a47c65-3811-4fe5-8b99-5e5ce0fa4591" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/896b38ca-a7d9-450e-8626-076eed8b57a0" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6542b0b7-804a-4eeb-a951-c650082f7ed5" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b68592e9-6d97-4f94-a798-3d1bb1c97f20" width="100%"/></td>
   </tr>
 </table>
 
