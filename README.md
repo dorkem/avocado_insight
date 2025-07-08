@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/neuromusic/avocado-prices/data
 
 ## 📥 데이터 출처
 - **Hass Avocado Board**에서 제공한 2018년까지의 리테일 스캔 데이터
-- 판매는 실제로 **소매점의 POS (판매시점정보)**에서 수집됨
+- 판매는 실제로 **소매점의 POS (판매시점정보)** 에서 수집됨
 - 데이터는 여러 유통채널을 포함한 **다채널 리포트**:
   - 마트, 할인점, 클럽스토어, 약국, 1달러샵, 군 매장 등
 
